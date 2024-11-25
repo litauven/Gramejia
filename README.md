@@ -61,7 +61,7 @@ Users can enjoy a seamless shopping experience with the following features:
 
 ## Tech Stack  
 - **Language:** Swift  
-- **Framework:** Core Data  
+- **Data Management:** Core Data  
 - **Platform:** iOS  
 
 ## Installation  
